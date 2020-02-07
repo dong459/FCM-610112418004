@@ -1,0 +1,17 @@
+{
+  "name": "fcm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "firebase-admin": "^8.9.2",
+    "googleapis": "^47.0.0"
+  }
+}
